@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java8.iml" filepath="$PROJECT_DIR$/.idea/modules/java8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java8_main.iml" filepath="$PROJECT_DIR$/.idea/modules/java8_main.iml" group="java8" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/java8_test.iml" filepath="$PROJECT_DIR$/.idea/modules/java8_test.iml" group="java8" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InterviewQuestionPrep.iml" filepath="$PROJECT_DIR$/.idea/modules/InterviewQuestionPrep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InterviewQuestionPrep_main.iml" filepath="$PROJECT_DIR$/.idea/modules/InterviewQuestionPrep_main.iml" group="InterviewQuestionPrep" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/InterviewQuestionPrep_test.iml" filepath="$PROJECT_DIR$/.idea/modules/InterviewQuestionPrep_test.iml" group="InterviewQuestionPrep" />
     </modules>
   </component>
 </project>
